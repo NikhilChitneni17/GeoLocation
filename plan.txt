@@ -1,0 +1,31 @@
+function handleform() {
+    this.positions={};
+    this.locations
+    this.table
+    this.search
+
+}
+this.geocode =funciton() {
+
+}
+this.deleterows=function() {
+
+}
+this.createrows=function() {
+
+}
+this.getrow=function() {
+
+}
+this.clickablerows() {
+
+}
+this.urlupadte() {
+
+}
+this.navigateOnClick() {
+
+}
+this.checkforUrl() {
+    
+}
